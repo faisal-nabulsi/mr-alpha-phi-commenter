@@ -1,0 +1,13 @@
+{
+  "name": "mr-alpha-phi-commenter",
+  "version": "1.0.0",
+  "description": "Auto-posts comments on the Mr. Alpha Phi Instagram post from your own account.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node comment.mjs https://www.instagram.com/p/DftAVKmqG_B/ --min 2 --max 2"
+  },
+  "dependencies": {
+    "playwright": "^1.65.1"
+  }
+}

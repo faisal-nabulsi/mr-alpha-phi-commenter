@@ -1,0 +1,4 @@
+# Your Instagram login lives here. Never commit it.
+.chrome-profile/
+node_modules/
+.DS_Store

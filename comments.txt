@@ -1,0 +1,23 @@
+# One comment per line. The script picks a random line each time
+# (never the same one twice in a row). Lines starting with # are ignored.
+yo
+yoo
+yooo
+YO
+YOOO
+yo 🔥
+yo yo yo
+🔥
+🔥🔥🔥
+let's go
+LETS GOOO
+W
+huge W
+👑
+🏆
+🙌
+💯
+goated
+locked in
+easy win
+GO GO GO
